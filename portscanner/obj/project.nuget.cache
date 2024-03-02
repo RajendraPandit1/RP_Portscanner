@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qUltAXUNKoLXdlPo2IgzUJ7hdODBtpZy3Z7evedMO0AyWRhTbuRjcHi8kjU9C2IvSvOb9/jklE7Of5Tb7ioGXg==",
+  "success": true,
+  "projectFilePath": "/home/artbysujan/Documents/Project/portscanner/portscanner.csproj",
+  "expectedPackageFiles": [
+    "/home/artbysujan/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.1/microsoft.aspnetcore.app.ref.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

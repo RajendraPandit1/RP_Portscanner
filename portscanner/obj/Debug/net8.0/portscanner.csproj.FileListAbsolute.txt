@@ -1,0 +1,14 @@
+/home/artbysujan/Documents/Project/portscanner/bin/Debug/net8.0/portscanner
+/home/artbysujan/Documents/Project/portscanner/bin/Debug/net8.0/portscanner.deps.json
+/home/artbysujan/Documents/Project/portscanner/bin/Debug/net8.0/portscanner.runtimeconfig.json
+/home/artbysujan/Documents/Project/portscanner/bin/Debug/net8.0/portscanner.dll
+/home/artbysujan/Documents/Project/portscanner/bin/Debug/net8.0/portscanner.pdb
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.GeneratedMSBuildEditorConfig.editorconfig
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.AssemblyInfoInputs.cache
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.AssemblyInfo.cs
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.csproj.CoreCompileInputs.cache
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.dll
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/refint/portscanner.dll
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.pdb
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/portscanner.genruntimeconfig.cache
+/home/artbysujan/Documents/Project/portscanner/obj/Debug/net8.0/ref/portscanner.dll
